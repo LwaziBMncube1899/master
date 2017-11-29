@@ -9,6 +9,6 @@ public class SpringbootappApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootappApplication.class, args);
 
-		System.out.print("Testing by Amanda2!");
+		System.out.print("Testing by asfasdf!");
 	}
 }
